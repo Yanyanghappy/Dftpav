@@ -34,6 +34,11 @@ ROS can be installed here: [ROS Installation](http://wiki.ros.org/ROS/Installati
 
    ```
    sudo apt-get install libgoogle-glog-dev libdw-dev libopenblas-dev gfortran
+   sudo apt-get install ros-noetic-geographic-msgs
+   sudo apt-get install ros-noetic-tf2-sensor-msgs
+   sudo apt install ros-noetic-ompl
+   sudo ln -s /opt/ros/noetic/include/ompl-1.6/ompl /opt/ros/noetic/include/ompl
+
    ```
    
    We use [Protocol Buffers](https://developers.google.com/protocol-buffers/) for parameter configuration. For the installation guide, please refer to this [link](https://github.com/protocolbuffers/protobuf/blob/master/src/README.md).
