@@ -92,4 +92,4 @@ For commercial inquiries, please contact [Fei GAO](https://ustfei.com/) (fgaoaa@
 
 # Yanyang
 
-## sim是港科大的EPSILON
+## Sim是港科大的EPSILON
